@@ -4,10 +4,12 @@ Cerinte:
 Vreau sa pot crea un nou TODOLIST
 Vreau sa ii pot pune un nume
 Vreau sa ii pot stabili numarul maxim de ITEM-uri pe care le pot adauga
-Vreau sa pot sterge un TODOLIST
-Vreau sa pot sterge un TODOLIST dupa nume
-Vreau sa pot sterge un TODOLIST dupa ID
-Vreau sa sterg toate TODOLIST care sunt mark as DONE
+
+Vreau sa pot sterge un TODOLIST pending
+Vreau sa pot sterge un TODOLIST dupa nume pending
+Vreau sa pot sterge un TODOLIST dupa ID pending
+Vreau sa sterg toate TODOLIST care sunt mark as DONE pending
+
 Vreau sa pot creea un nou ITEM intr-un TODOLIST
 Vreau sa ii pot pune un nume unui ITEM
 vreau sa ii pot pune descriere
