@@ -1,0 +1,36 @@
+TODO
+Cerinte:
+
+Vreau sa pot crea un nou TODOLIST
+Vreau sa ii pot pune un nume
+Vreau sa ii pot stabili numarul maxim de ITEM-uri pe care le pot adauga
+Vreau sa pot sterge un TODOLIST
+Vreau sa pot sterge un TODOLIST dupa nume
+Vreau sa pot sterge un TODOLIST dupa ID
+Vreau sa sterg toate TODOLIST care sunt mark as DONE
+Vreau sa pot creea un nou ITEM intr-un TODOLIST
+Vreau sa ii pot pune un nume unui ITEM
+vreau sa ii pot pune descriere
+vreau ca default status: CREATED
+vreau sa ii pot seta status custom: INPROGRESS
+vreau sa aibe created_at si update_at campuri
+Vreau sa pot schimba un status la un ITEM
+default este CREATED
+custom poate fi doar INPROGRESS
+nu ii pot seta cand este create status: COMPLETED
+Vreau sa pot sterge un ITEM
+dupa status
+dupa nume
+dupa id
+Vreau sa pot sterge toate ITEM-urile
+toate
+toate cu un status
+toate de la o anumita data pana in prezent sau pana la o anumita data custom
+Vreau sa pot cauta in ITEM
+dupa nume
+dupa status
+dupa data
+Vreau sa pot sorta ITEM
+dupa nume
+dupa status
+dupa data
